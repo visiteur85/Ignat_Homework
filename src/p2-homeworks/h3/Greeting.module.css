@@ -1,0 +1,44 @@
+.someClass {
+    width: 400px;
+    height: 100px;
+    background-color: #bbffbb;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.error {
+    border: 1px solid red;
+    display: block;
+    text-align: center;
+    color: red;
+    width: 400px;
+    margin-top: 5px;
+    border-radius: 5px;
+
+}
+
+.input {
+    margin-right: 15px;
+}
+
+.errorinput {
+    margin-right: 15px;
+    background-color: red;
+}
+
+
+.count {
+    margin-left: 15px;
+    color: yellow;
+    border: 1px solid dodgerblue;
+    border-radius: 15px;
+    padding: 2px;
+    box-shadow: 5px 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.someClass button {
+    background-color: yellow;
+    box-shadow: 5px 0 5px rgba(0, 0, 0, 0.5);
+
+}
